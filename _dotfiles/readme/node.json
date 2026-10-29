@@ -1,0 +1,45 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "lecole-42_cyber-Cyberwarfare",
+  "label": "lecole-42_cyber-Cyberwarfare",
+  "code": "5.9.1.1",
+  "kind": "repo",
+  "description": "",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/lecole-42_cyber-Cyberwarfare",
+  "developer": "lecole42",
+  "farm": "5.Lecole-42",
+  "breadcrumb": [
+    {
+      "code": "5",
+      "kind": "area",
+      "label": "42",
+      "icon": "🎓"
+    },
+    {
+      "code": "5.9",
+      "kind": "project",
+      "label": "42-cyberwarfare",
+      "icon": "🛡️"
+    },
+    {
+      "code": "5.9.1",
+      "kind": "family",
+      "label": "Cyber",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "lecole-42-___",
+    "code": "5.0",
+    "url": "https://github.com/diegonmarcos/lecole-42-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── .claude/",
+    "└── 0_hub/",
+    "    └── lecole-42-___ (submodule)"
+  ]
+}
